@@ -1,0 +1,16 @@
+﻿  Source.c
+C:\Users\mohit\source\repos\DS Project\Source.c(66,21): warning C4133: '=': incompatible types - from 'books *' to 'user *'
+C:\Users\mohit\source\repos\DS Project\Source.c(70,22): warning C4133: '=': incompatible types - from 'user *' to 'books *'
+C:\Users\mohit\source\repos\DS Project\Source.c(92,29): warning C4133: '=': incompatible types - from 'user *' to 'books *'
+C:\Users\mohit\source\repos\DS Project\Source.c(126,33): warning C4133: '=': incompatible types - from 'user *' to 'books *'
+C:\Users\mohit\source\repos\DS Project\Source.c(116,1): warning C4133: 'initializing': incompatible types - from 'user *' to 'books *'
+C:\Users\mohit\source\repos\DS Project\Source.c(151,22): warning C4133: '=': incompatible types - from 'user *' to 'books *'
+C:\Users\mohit\source\repos\DS Project\Source.c(191,33): warning C4133: '=': incompatible types - from 'books *' to 'user *'
+C:\Users\mohit\source\repos\DS Project\Source.c(221,37): warning C4133: '=': incompatible types - from 'books *' to 'user *'
+C:\Users\mohit\source\repos\DS Project\Source.c(227,59): warning C4133: '=': incompatible types - from 'user *' to 'books *'
+C:\Users\mohit\source\repos\DS Project\Source.c(231,30): warning C4133: '=': incompatible types - from 'books *' to 'user *'
+C:\Users\mohit\source\repos\DS Project\Source.c(177,7): warning C4101: 'temp_name': unreferenced local variable
+C:\Users\mohit\source\repos\DS Project\Source.c(259,21): warning C4133: '=': incompatible types - from 'user *' to 'books *'
+C:\Users\mohit\source\repos\DS Project\Source.c(269,2): warning C4550: expression evaluates to a function which is missing an argument list
+C:\Users\mohit\source\repos\DS Project\Source.c(254,1): warning C4133: 'initializing': incompatible types - from 'user *' to 'books *'
+  DS Project.vcxproj -> C:\Users\mohit\source\repos\DS Project\x64\Debug\DS Project.exe
